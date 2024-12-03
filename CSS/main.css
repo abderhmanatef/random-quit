@@ -1,0 +1,12 @@
+.cover {
+  background-image: url("../Images/pexels-phong-tran-736233012-18802955.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+}
+.btn {
+  background-color: rgba(0, 0, 0, 0.6);
+}
+
+
